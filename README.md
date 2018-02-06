@@ -2,7 +2,7 @@
 
 **Contributors:** Maya Minier
 
-<center> #### The Eat List </center>
+<center> **_The Eat List_** </center>
 
 **Project Summary:** This product aims to deliver a streamlined and simple way of categorizing your favourite restaurants into a visually appealing, minimalistic online database! It's often difficult to keep track of restaurants, especially because there's so much to know about them - where are they? What kind of food do they serve? How much do they cost? What do _you_ feel like eating today? This product aims to not only condense that information into one convenient location (because, let's face it, your mind is not as reliable as you'd think, and when you _just_ can't quite remember the name of that really good restaurant, The Eat List is here to save the day), but also to allow you to only look for and see the information that you feel is important. Don't care about the price? Don't show it! The Eat List is the restaurant hit list that you've never realized you needed until now. Whether you're a mother trying to feed your children, a boyfriend looking to take your girlfriend out on a date, an elderly couple trying to revisit that restaurant you fell in love in 30 years ago, or just a hungry kid, this app caters to anyone and everyone.
 
