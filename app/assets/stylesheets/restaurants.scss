@@ -1,3 +1,27 @@
 // Place all the styles related to the Restaurants controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+a {
+	text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+    color: #e08057;
+}
+
+/* visited link */
+a:visited {
+    color: #a34118;
+}
+
+/* mouse over link */
+a:hover {
+    color: #c69f8f;
+}
+
+/* selected link */
+a:active {
+    color: #e8e8e8;
+}
